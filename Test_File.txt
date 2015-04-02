@@ -1,0 +1,6 @@
+id, fruit, supplier, location, date
+01, apples, fresh fruits inc., neptune valley, 03-04-2014
+02, bananas, the local farmers, helena, 02-02-2014
+03, cherries, green gardens, surrey, 03-31-2014
+04, guavas, tropical company, redwood, 03-31-2014
+05, kiwis, happy plantation, sonoma, 03-15-2014
